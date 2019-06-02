@@ -1,2 +1,6 @@
 # cmake-rpi0w-toolchain
-cmake toolchain file for Raspberry Pi Zero W
+Toolchain for cross-compiling to Raspberry Pi Zero W using GCC
+
+Very simple, straightforward cmake toolchain file.  
+
+Should work fine also for plain Raspberry Pi Zero.
